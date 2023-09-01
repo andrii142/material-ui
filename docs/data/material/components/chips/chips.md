@@ -67,7 +67,7 @@ Use the `avatar` prop to add an avatar or use the `icon` prop to add an icon.
 
 ## Color chip
 
-You can use the `color` prop to define a color from theme palette.
+You can use the `color` prop to define
 
 {{"demo": "ColorChips.js"}}
 
